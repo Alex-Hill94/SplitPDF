@@ -1,4 +1,4 @@
-# PDF Splitter
+# SplitPDF
 
 A small Python utility for extracting a page range from a PDF. It includes both a command-line interface and a macOS-friendly drag-and-drop GUI.
 
@@ -60,4 +60,3 @@ Then use either:
 split_pdf example.pdf -pages 16-20
 split_pdf --gui
 ```
-
